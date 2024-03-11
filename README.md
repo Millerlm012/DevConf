@@ -2,7 +2,7 @@
 
 ## Install Steps 
 
-1. Simply run the appropriate bash script for your OS in the /install directory.
+1. Simply run the appropriate bash script for your OS in the `/install` directory.
 2. Install the applications that are listed below
 
 - [neovim](https://neovim.io/)
