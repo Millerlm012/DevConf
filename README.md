@@ -11,5 +11,11 @@
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [alacritty](https://alacritty.org/)
 
+### Windows Install
+
+- `choco install alacritty`
+- install neovim in wsl
+- sync tmux and alacritty dotfiles on windows side & nvim in wsl
+
 ## Additional Notes
 Utilize `:LazyExtras` to find additonal builtin configs for `go`, `python`, `markdown`, `json`, `yaml`, and `docker`. 
