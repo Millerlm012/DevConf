@@ -10,6 +10,8 @@
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [alacritty](https://alacritty.org/)
+- `brew install gnu-sed`
+- `brew install riprep`
 
 ## Additional Notes
 Utilize `:LazyExtras` to find additonal builtin configs for `go`, `python`, `markdown`, `json`, `yaml`, and `docker`. 
