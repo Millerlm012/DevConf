@@ -14,12 +14,12 @@ fi
 if [ ! -d ~/.config/alacritty ]; then
 	mkdir ~/.config/alacritty
 fi
-cp -r /tmp/dotfiles/config/alacritty/ ~/.config/alacritty/
+cp -r /tmp/dotfiles/.config/alacritty/ ~/.config/
 
 if [ ! -d ~/.config/tmux ]; then
 	mkdir ~/.config/tmux
 fi
-cp -r /tmp/dotfiles/config/tmux ~/.config/tmux/
+cp -r /tmp/dotfiles/.config/tmux ~/.config/
 
 if [ ! -d ~/.config/nvim ]; then
 	mkdir ~/.config/nvim
