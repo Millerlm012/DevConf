@@ -20,6 +20,8 @@ if [ ! -d ~/.config/tmux ]; then
 	mkdir ~/.config/tmux
 fi
 cp -r /tmp/dotfiles/.config/tmux ~/.config/
+# source tmux conf
+tmux source ~/.config/tmux/tmux.conf
 
 if [ ! -d ~/.config/nvim ]; then
 	mkdir ~/.config/nvim
